@@ -1,7 +1,3 @@
-Perfect — here’s the **updated README**, rewritten **specifically for a Python FastAPI app**, concise and submission-ready.
-
----
-
 # Image Analysis Backend Service (FastAPI)
 
 ## Overview
