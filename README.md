@@ -21,8 +21,8 @@ The focus is on API design, file handling, and end-to-end backend thinking rathe
 ### Setup
 
 ```bash
-git clone <repository-url>
-cd image-analysis-service
+git clone https://github.com/amisdun/veefyed_test.git
+cd veefyed_test
 python3 -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install "fastapi[standard]"
