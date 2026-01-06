@@ -60,5 +60,4 @@ For a production-ready system, I would:
 * Add **authentication, rate limiting, and role-based access**
 * Implement **structured logging, monitoring, and error tracking**
 * Add **unit and integration tests**
-* Introduce **API versioning** and stricter schema validation
 
