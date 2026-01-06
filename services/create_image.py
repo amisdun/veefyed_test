@@ -3,9 +3,7 @@ import uuid
 from pathlib import Path
 from fastapi import UploadFile, HTTPException
 import shutil
-
 from starlette import status
-
 from utils.get_image import STORAGE_DIR
 from utils.get_image_ext import get_image_ext, ALLOWED_EXTENSIONS
 

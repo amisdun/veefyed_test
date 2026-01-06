@@ -1,9 +1,7 @@
 import logging
 import random
-
 from fastapi import HTTPException
 from starlette import status
-
 from utils.get_image import get_image
 
 
